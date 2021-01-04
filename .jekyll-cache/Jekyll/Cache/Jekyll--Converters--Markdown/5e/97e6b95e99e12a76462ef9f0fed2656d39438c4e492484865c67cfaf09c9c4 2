@@ -1,0 +1,17 @@
+I"ñ<div class="row">
+  <div class="small-12 columns">
+    <img src="/assets/img/lab_photo_Dec2017_cropped_v2.jpg" />
+  </div>
+</div>
+
+<h2 id="research-overview">Research Overview</h2>
+<p>The FDA lab is a collaborative research group driven by the independent and complementary interests of twin scientists Malachi Griffith and Obi Griffith. The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.</p>
+
+<p>The Griffith Lab is an interdisciplinary <a href="/team/">team</a> of biologists, bioinformaticians, computer scientists, and software engineers. Each member of the lab is trained to use computational biology approaches to address research questions relating to cancer biology and precision cancer medicine. We train students and post-docs with a biology background that would like to develop bioinformatics skills. We are equally interested in trainees with a computer science background that would like to apply these skills to studying cancer and improving patient outcomes. If you are interested in becoming part of the team please review our <a href="/join/">join</a> and open <a href="/join/positions/">positions</a> pages.</p>
+
+<p>Our <a href="/research/">research projects</a> cover a wide spectrum of cancer informatics and clinical statistics with an emphasis on translation and application. Specifically, we use computational methods for the analysis of large cancer datasets at the molecular level (DNA, RNA and protein) to identify markers for diagnosis, prognosis and drug response prediction in cancer.</p>
+
+<p>In addition to many ongoing large scale cancer genome/transcriptome data analysis projects, clinical trial data analyses, and Genomics Tumor Board case studies, the Griffith Lab actively develops methods, algorithms and tools to help others perform these analyses. We have made substantial contributions to <a href="/software/">open source and open access software</a> for the scientific community including creation of platforms for <a href="http://alexaplatform.org">alternative expression analysis</a>, regulatory region annotation, <a href="http://dgidb.org">mining drug-gene interactions</a>, <a href="http://docm.info">curation of functional mutations</a>, <a href="http://civicdb.org">clinical interpretation of variants in cancer</a>, <a href="http://pvactools.org">design of personalized cancer vaccines</a>, <a href="http://regtools.org">integration of whole genome and RNA-seq data in a regulatory and splicing context</a>, and <a href="https://bioconductor.org/packages/release/bioc/html/GenVisR.html">genomic data visualization</a>.</p>
+
+<p>We have <a href="/publications/">published over 100 papers</a> with major areas of focus in precision medicine, cancer, genomics, immunogenomics, biomarker discovery, sequence analysis, gene regulation and alternative RNA splicing. We are also actively involved in training the next generation of computational biologists through <a href="/teaching/">formal courses, online tutorials and workshops</a>.</p>
+:ET
