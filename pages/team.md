@@ -12,9 +12,9 @@ header:
 <div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Professor"><a href="#Professor">Professor</a></li>
-    <li data-magellan-arrival="Associate Professor"><a href="#Associate Professor">Associate Professor</a></li>
-    <li data-magellan-arrival="PhD student"><a href="#PhD student">PhD student</a></li>
-    <li data-magellan-arrival="Master Student"><a href="#Master Student">Master Student</a></li>
+    <li data-magellan-arrival="Associate_Professor"><a href="#Associate_Professor">Associate Professor</a></li>
+    <li data-magellan-arrival="PhD_student"><a href="#PhD_student">PhD student</a></li>
+    <li data-magellan-arrival="Master_Student"><a href="#Master_Student">Master Student</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
@@ -30,13 +30,13 @@ header:
 
 He is currently serving as an Editor-in-Chief of Atomization and Sprays and an Associate Editor of the ASME Journal of Engineering for Gas Turbines and Power. He is also a voting member of the SAE (Society of Automotive Engineers)Gasoline Fuel Injection Standards Committee. He is a recipient of numerous professional awards, including ASME Internal Combustion Engine Division Outstanding Speaker Award SAE Engineering Meetings Board Outstanding Oral Presentation Award, SAE Henry Souther Standards Award, and SAE/InterRegs Standards and Regulations Award for Young Engineers. He is Fellow of SAE and a distinguished visiting fellow at the University of Oxford, sponsored by the Royal Academy of Engineering, United Kingdom. He earned his Ph.D. in mechanical engineering from Carnegie Mellon University, USA.' image="/assets/img/team/DavidLSHung.jpg" role="Professor" %}
 
-<h2 data-magellan-destination="Associate Professor">Associate Professor</h2>
-<a name="Associate Professor"></a>
+<h2 data-magellan-destination="Associate_Professor">Associate Professor</h2>
+<a name="Associate_Professor"></a>
 
 {% include team_member member_name="Kweeyan" full_name="Kweeyan Teh, Associate Professor" bio='Dr. Griffith is Associate Professor of Medicine (Oncology) and Genetics and Assistant Director of the McDonnell Genome Institute at Washington University. Dr. Griffith’s research is focused on the development of personalized medicine strategies for cancer. He develops bioinformatics tools and methods for the analysis of high throughput sequence data and identification of biomarkers for diagnostic, prognostic and drug response prediction. Dr Griffith is on the board of directors for the Cancer Genomics Committee, Steering Committee for the Global Alliance for Genomic Health, co-chair of the Variant Interpretation for Cancer Consortium, and editorial board for Cell Reports. He has published over 100 studies, received numerous research awards and honors and held several large grants from the NIH including a K22 Transition Career Development Award, U01/U24 for Development of Informatics Technologies for Cancer Research, and others. He has mentored more than 30 bioinformatics trainees and taught hundreds more as an instructor for Cold Spring Harbor Laboratories and the Canadian Bioinformatics Workshops.' image="/assets/img/team/Zhaofengnian.jpeg" role="Associate Professor" %}
 
-<h2 data-magellan-destination="PhD student">PhD student</h2>
-<a name="PhD student"></a>
+<h2 data-magellan-destination="PhD_student">PhD student</h2>
+<a name="PhD_student"></a>
 
 {% include team_member member_name="Fengnian" full_name="Fengnian Zhao, PhD" bio='Dr. Gomez is an Instructor working in collaboration with the Griffith and <a href="http://www.fehnigerlab.org/">Fehniger Laboratories</a> at the McDonnell Genome Institute and The <a href="http://oncology.wustl.edu">Department of Medicine – Division of Oncology</a>. Dr. Gomez is leading a deep sequencing analysis of Hodgkin lymphoma genomes with the goal of describing somatic events characteristic of this malignancy.  Dr. Gomez collaborates with members of the Griffith and Fehniger laboratories, as well was the Washington University Genomics Tumor Board on projects related to the genomics of Hodgkin and Non-Hodgkin lymphomas. Dr. Gomez’s research goals include developing strategies to translate genomic data into improved patient care. She is specifically interested in working toward the inclusion of diverse human populations in translational genomic research. Dr. Gomez also has a leadership role in the Department of Medicine as the co-chair of the Trainee Inclusion and Cultural Awareness Task Force. In this role she works to identify challenges related to diversity and inclusion that Medicine trainees face and the implementation of solutions to these challenges.' image="/assets/img/team/Zhaofengnian.jpeg" role="Instructor in Medicine" %}
 
@@ -45,8 +45,8 @@ He is currently serving as an Editor-in-Chief of Atomization and Sprays and an A
 {% include team_member member_name="Qiaozhi" full_name="Qiaozhi Zhai, PhD" bio='Dr. Krysiak is a Fellow of the Laboratory Genetics and Genomics program in the Department of Pathology and Immunology. Her work focuses on the analysis and interpretation of genomic and transcriptomic sequence data produced from a variety of cancer types. Her primary interest is in the use of genomic data to improve the current standards of patient care. Since joining the McDonnell Genome Institute in 2014 she has been involved in comprehensive analysis of cancer patient cohorts as well as small and n-of-1 studies. In collaboration with the Genomics Tumor Board, she has led the analysis of case studies in order to better understand the molecular underpinnings of multiple hematologic cancers. Currently, her primary project is leading the analysis of >400 cases of follicular lymphoma in order to identify genomic events which can predict clinical outcomes for patients with this type of cancer. Applying her experience with these analyses and her predoctoral work on the genetics of myelodysplastic syndromes, she has been part of the team of developers and researchers that created and is actively expanding the open-source, community driven <a href="https://civic.genome.wustl.edu/home">Clinical Interpretations of Variants in Cancer (CIViC) knowledgebase</a>.' image="/assets/img/team/Zhaiqiaozhi.jpeg" role="LGG Fellow" %}
 
 
-<h2 data-magellan-destination="Master Student">Master Student</h2>
-<a name="Master Student"></a>
+<h2 data-magellan-destination="Master_Student">Master Student</h2>
+<a name="Master_Student"></a>
 
 {% include team_member member_name="Rui" full_name="Rui Gao, PhD" bio='Dr. Danos is a postdoctoral researcher in the Griffith Lab at the McDonnell Genome Institute at Washington University School of Medicine. He received undergraduate degrees in mathematics and physics at the University of Chicago. He performed graduate studies in the fields of Diabetes and Cancer Metabolism and received his PhD from the Committee on Molecular Metabolism and Nutrition and the University of Chicago. He also spent time working in IT as well as teaching science and mathematics, and received the Wayne C. Booth graduate student prize for excellence in teaching while at University of Chicago. His interests include applying and developing mathematical techniques to areas of basic and clinical cancer research, and at the Griffith Lab, his projects include working on the <a href="http://civicdb.org">Clinical Interpretations of Variants in Cancer (CIViC)</a> knowledgebase, as well as characterization of novel mutations important for cancer which exist in non-coding space.' image="/assets/img/team/arpad_danos.jpg" role="Postdoctoral Researcher" %}
 

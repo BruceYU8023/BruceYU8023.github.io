@@ -1,9 +1,9 @@
 I"@û<div data-magellan-expedition="fixed">
   <ul class="sub-nav">
     <li data-magellan-arrival="Professor"><a href="#Professor">Professor</a></li>
-    <li data-magellan-arrival="Associate Professor"><a href="#Associate Professor">Associate Professor</a></li>
-    <li data-magellan-arrival="PhD student"><a href="#PhD student">PhD student</a></li>
-    <li data-magellan-arrival="Master Student"><a href="#Master Student">Master Student</a></li>
+    <li data-magellan-arrival="Associate_Professor"><a href="#Associate_Professor">Associate Professor</a></li>
+    <li data-magellan-arrival="PhD_student"><a href="#PhD_student">PhD student</a></li>
+    <li data-magellan-arrival="Master_Student"><a href="#Master_Student">Master Student</a></li>
     <li data-magellan-arrival="Graduate_Students"><a href="#Graduate_Students">Graduate Students</a></li>
     <li data-magellan-arrival="Staff"><a href="#Staff">Staff</a></li>
     <li data-magellan-arrival="Students_Interns"><a href="#Students_Interns">Students and Interns</a></li>
@@ -102,8 +102,8 @@ He is currently serving as an Editor-in-Chief of Atomization and Sprays and an A
 
 <hr />
 
-<h2 data-magellan-destination="Associate Professor">Associate Professor</h2>
-<p><a name="Associate Professor"></a></p>
+<h2 data-magellan-destination="Associate_Professor">Associate Professor</h2>
+<p><a name="Associate_Professor"></a></p>
 
 <div class="row">
   <div class="small-4 columns">
@@ -190,8 +190,8 @@ He is currently serving as an Editor-in-Chief of Atomization and Sprays and an A
 
 <hr />
 
-<h2 data-magellan-destination="PhD student">PhD student</h2>
-<p><a name="PhD student"></a></p>
+<h2 data-magellan-destination="PhD_student">PhD student</h2>
+<p><a name="PhD_student"></a></p>
 
 <div class="row">
   <div class="small-4 columns">
@@ -448,8 +448,8 @@ He is currently serving as an Editor-in-Chief of Atomization and Sprays and an A
 
 <hr />
 
-<h2 data-magellan-destination="Master Student">Master Student</h2>
-<p><a name="Master Student"></a></p>
+<h2 data-magellan-destination="Master_Student">Master Student</h2>
+<p><a name="Master_Student"></a></p>
 
 <div class="row">
   <div class="small-4 columns">
