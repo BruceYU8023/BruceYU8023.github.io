@@ -17,7 +17,7 @@ slogan: ''
 description: 'This is the website for the academic lab of David Hung and Kweeyan Teh'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based n the theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Powered by <a href="https://github.com/BruceYU8023/BruceYU8023.github.io" target="_blank">Bruce</a> from <a href="http://github.com/">Github</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
