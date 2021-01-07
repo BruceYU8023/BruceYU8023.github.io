@@ -24,7 +24,7 @@ permalink: /index.html
 #
 homepage: true
 header:
-    image_fullwidth: "genvis-dna-bg_optimized_v1a.png"
+    image_fullwidth: "research-banner-2560x1165-1.jpg"
 ---
 
 <div class="row">
@@ -34,7 +34,7 @@ header:
 </div>
 
 ## Research Overview
-The FDA lab is a collaborative research group driven by the independent and complementary interests of twin scientists Malachi Griffith and Obi Griffith. The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
+The FDA lab ixxxxxs a collaborative research group driven by the independent and complementary interests of twin scientists Malachi Griffith and Obi Griffith. The focus of the lab is on developing methods of applied bioinformatics for personalized medicine and improved cancer care.
 
 The Griffith Lab is an interdisciplinary [team](/team/) of biologists, bioinformaticians, computer scientists, and software engineers. Each member of the lab is trained to use computational biology approaches to address research questions relating to cancer biology and precision cancer medicine. We train students and post-docs with a biology background that would like to develop bioinformatics skills. We are equally interested in trainees with a computer science background that would like to apply these skills to studying cancer and improving patient outcomes. If you are interested in becoming part of the team please review our [join](/join/) and open [positions](/join/positions/) pages.
 
